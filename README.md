@@ -1,25 +1,3 @@
-# Username and password authentication template for Next 14
-
-## Youtube tutorial - username, password authentication
-https://www.youtube.com/watch?v=JIIy7VkiTqU
-
-## Youtube tutorial - email, password with email verification
-
-- Checkout to email branch to see this implementation.
-
-https://www.youtube.com/watch?v=2sHsP_8YLHA&t=1s
-
-
-
-
-- Next 14
-- Lucia Auth Package
-- Postgre SQL
-- Drizzle ORM
-- Typescript
-- Tailwind CSS
-- Shadcn UI
-
 ## Installation
 
 install the package using npm or yarn
@@ -64,11 +42,3 @@ docker run --name postgres -e POSTGRES_PASSWORD=password -e POSTGRES_USER=userna
 ```bash
 DATABASE_URL=postgres://username:password@localhost:5432/dbname
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-# next-14-lucia-auth-postgresql-drizzle
-# next-14-lucia-auth-postgresql-drizzle
-# next-14-lucia-auth-postgresql-drizzle
-# next-14-lucia-auth-postgresql-drizzle
